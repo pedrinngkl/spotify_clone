@@ -6,13 +6,20 @@ O objetivo do projeto é simular uma versão básica da interface e das funciona
 ## 📁 Estrutura do Projeto
 
 spotify_clone/ 
+
 │ 
+
 ├── api-artists/ # Pasta com dados simulados de artistas 
-├── src/ # Arquivos-fonte (ex: componentes ou estilos) 
-├── artists.json # Arquivo JSON com dados dos artistas 
-├── index.html # Página principal 
-├── script.js # Lógica da aplicação 
-├── search.js # Funcionalidade de busca 
+
+ ├── src/ # Arquivos-fonte (ex: componentes ou estilos) 
+
+  ├── artists.json # Arquivo JSON com dados dos artistas 
+   
+   ├── index.html # Página principal 
+     
+    ├── script.js # Lógica da aplicação 
+
+     ├── search.js # Funcionalidade de busca 
 
 
 ## 💡 Funcionalidades
